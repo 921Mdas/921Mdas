@@ -6,11 +6,11 @@
 
 Languages:
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png)
-![](https://i1.wp.com/www.expertshopify.com/wp-content/uploads/2017/12/jquery_xbzrgp.gif?fit=600%2C600&ssl=1)
-![](https://www.teahub.io/photos/full/148-1483625_cascading-style-sheets.jpg)
-![](https://miro.medium.com/max/1366/1*HFYKWq92BcXJIdata7d-JQ.png)
-![](https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124)
+![](https://www.split.io/wp-content/uploads/2017/12/javascript-logo.png)
+![](https://avatars.githubusercontent.com/u/70142?s=200&v=4)
+![](https://hackr.io/tutorials/learn-css/logo/logo-css?ver=1587721903)
+![](https://files.readme.io/g55IZAQlT9y4r01WAtYD_Sass.png)
+![](https://avatars.githubusercontent.com/u/9441414?s=200&v=4)
 
 Here is a list of projects and their description:
 
