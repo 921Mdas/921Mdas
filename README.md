@@ -14,3 +14,6 @@ React, Node.js, Express, ReactNative
 ## Tools & Platforms
 Git, Netlify, Heroku
 
+## Design
+Photoshop, Figma
+
