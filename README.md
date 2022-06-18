@@ -1,6 +1,6 @@
 
 
-> Obsessed with learning new techniques and constantly improving my own.
+> I Enjoy with learning new techniques and improving my own.
 This Repository will include projects with purpose, general exercises to display my understanding and control of languages, frameworks and technologies, but also my contribution to professional, prob bono work .
 
 
