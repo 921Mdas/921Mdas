@@ -1,4 +1,4 @@
-# "Copy Ninja"
+
 
 > Obsessed with learning new techniques and constantly improving my own. Today must be better than yesterday
 
