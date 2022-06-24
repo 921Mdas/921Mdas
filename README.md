@@ -12,7 +12,7 @@ JavaScript (ES6), HTML,
 CSS/Sass, Python
 
 ## Libraries & Frameworks
-React, Node.js, Express, ReactNative
+React, React-Native, Node.js, Express, ReactNative
 
 ## Tools & Platforms
 Git, Netlify, Heroku
