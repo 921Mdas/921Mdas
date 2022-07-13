@@ -15,7 +15,7 @@ CSS/Sass, Python
 React, React-Native, Node.js, Express,
 
 ## Tools & Platforms
-Git, Netlify, Heroku
+Git, GitHub, Netlify, Heroku
 
 ## Design
 CORELDRAW, Photoshop, Figma
