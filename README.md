@@ -18,5 +18,5 @@ React, React-Native, Node.js, Express,
 Git, Netlify, Heroku
 
 ## Design
-Photoshop, Figma
+CORELDRAW, Photoshop, Figma
 
