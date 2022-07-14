@@ -1,15 +1,18 @@
 
 
-> I enjoy learning new techniques and improving my own.
-> Looking to collaborate and participate in different projects, feel free to invite me.
-This Repository will include projects with purpose, general exercises to display my understanding and control of languages, frameworks and technologies, but also my contribution to professional, prob bono work .
+I'm a Full-Stack Software Engineer based in Toronto.I'm passionate about web technologies and making the web accessible to everyone.
+I'm always learning something new, working on different projects, improving existing ones or looking to collaborate to contribute to different open-source projects.
 
-<img width="1408" alt="image" src="https://user-images.githubusercontent.com/66809588/175647040-ac8a71e1-db5e-4989-9943-84e049c595b3.png">
+Outside of my passion for coding i enjoy some country music, a walk in the woods and some time with family.
 
+:floppy_disk: I'm looking to collaborate to Open Source Projects
+:speech_balloon: ask me about Javascript, React, MongoDB
+:postbox: How you can reach me DM @921Mdas | Email:rodeomads@gmail.com
+:smile: Fun fact I love singing country music, i'm pretty good at it 
 
 ## My programming languages
-JavaScript (ES6), HTML,
-CSS/Sass, Python
+JavaScript (ES6)
+Python
 
 ## Libraries & Frameworks
 React, React-Native, Node.js, Express,
