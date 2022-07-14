@@ -1,6 +1,6 @@
 
 
-Hi! :wave: I'm a Full-Stack Software Engineer based in Toronto.I'm passionate about web technologies and making the web accessible to everyone.
+Hi! :wave: I'm a Full-Stack Developer based in Toronto.I'm passionate about web technologies and making the web accessible to everyone.
 I'm always learning something new, working on different projects, improving existing ones or looking to collaborate to contribute to different open-source projects.
 
 Outside of my passion for coding i enjoy some country music, a walk in the woods and some time with family.
