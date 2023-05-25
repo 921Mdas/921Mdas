@@ -12,7 +12,7 @@ Outside of my passion for coding i enjoy some country music, a walk in the woods
 
 ## My programming languages
 - JavaScript (ES6)
-- Python
+- Typescript
 
 ## Libraries & Frameworks
 - React
