@@ -15,6 +15,7 @@ Outside of my passion for coding i enjoy some country music, a walk in the woods
 - Typescript
 
 ## Libraries & Frameworks
+- Svelte
 - React
 - Redux (Redux Toolkit)
 - React-Native
